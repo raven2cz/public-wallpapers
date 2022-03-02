@@ -3,9 +3,21 @@
 #+DESCRIPTION: Public Wallpapers
 
 #+html: <p align="center"><img src="images/qimgv.jpg" /></p>
+#+html: <p align="center"><img src="images/default-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/dracula-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/monokai-pro-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/one-dark-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/nord-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/gruvbox-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/palenight-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/solarized-collage.jpg" /></p>
 
 * Introduction
-Wallpapers are mainly used for 4K resolution monitors and linux windows managers handling. For example my ~raven2cz/awesome-config~ is using it.
+Wallpapers and portraits are mainly used for 4K resolution monitors and linux windows managers handling. For example my ~raven2cz/awesome-config~ is using it.
+
+In dir colorscheme, there are stored wallpapers driven by selected colorscheme.
+
+Portraits are focus for notification messages, terminal colorscripts and generated wallpaper support.
 
 * Ownership
 Because I downloaded most of these from sites like ~wallheaven~ and ~alphacoders~, I have no way of knowing if there is a _copyright_ on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and *I will remove it*!
