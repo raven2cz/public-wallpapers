@@ -3,14 +3,22 @@
 #+DESCRIPTION: Public Wallpapers
 
 #+html: <p align="center"><img src="images/qimgv.jpg" /></p>
-#+html: <p align="center"><img src="images/default-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/dracula-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/monokai-pro-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/one-dark-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/nord-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/gruvbox-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/palenight-collage.jpg" /></p>
-#+html: <p align="center"><img src="images/solarized-collage.jpg" /></p>
+#+html: <p align="center"><img src="images/arcane.jpg" /></p>
+#+html: <p align="center"><img src="images/default.jpg" /></p>
+#+html: <p align="center"><img src="images/doom_one.jpg" /></p>
+#+html: <p align="center"><img src="images/dracula.jpg" /></p>
+#+html: <p align="center"><img src="images/fantasy_women.jpg" /></p>
+#+html: <p align="center"><img src="images/gruvbox_dark.jpg" /></p>
+#+html: <p align="center"><img src="images/guwaiz.jpg" /></p>
+#+html: <p align="center"><img src="images/joy.jpg" /></p>
+#+html: <p align="center"><img src="images/mage.jpg" /></p>
+#+html: <p align="center"><img src="images/mass_effect.jpg" /></p>
+#+html: <p align="center"><img src="images/material_palenight.jpg" /></p>
+#+html: <p align="center"><img src="images/material.jpg" /></p>
+#+html: <p align="center"><img src="images/monokai_pro.jpg" /></p>
+#+html: <p align="center"><img src="images/nord.jpg" /></p>
+#+html: <p align="center"><img src="images/one_dark.jpg" /></p>
+#+html: <p align="center"><img src="images/solorized_dark.jpg" /></p>
 
 * Introduction
 Wallpapers and portraits are mainly used for 4K resolution monitors and linux windows managers handling. For example my ~raven2cz/awesome-config~ is using it.
