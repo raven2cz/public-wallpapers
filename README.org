@@ -18,7 +18,7 @@
 #+html: <p align="center"><img src="images/monokai_pro.jpg" /></p>
 #+html: <p align="center"><img src="images/nord.jpg" /></p>
 #+html: <p align="center"><img src="images/one_dark.jpg" /></p>
-#+html: <p align="center"><img src="images/solorized_dark.jpg" /></p>
+#+html: <p align="center"><img src="images/solarized_dark.jpg" /></p>
 
 * Introduction
 Wallpapers and portraits are mainly used for 4K resolution monitors and linux windows managers handling. For example my ~raven2cz/awesome-config~ is using it.
