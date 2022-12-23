@@ -8,6 +8,8 @@
 #+html: <p align="center"><img src="images/doom_one.jpg" /></p>
 #+html: <p align="center"><img src="images/dracula.jpg" /></p>
 #+html: <p align="center"><img src="images/fantasy_women.jpg" /></p>
+#+html: <p align="center"><img src="images/fantasy_women_2.jpg" /></p>
+#+html: <p align="center"><img src="images/fantasy_women_3.jpg" /></p>
 #+html: <p align="center"><img src="images/gruvbox_dark.jpg" /></p>
 #+html: <p align="center"><img src="images/guwaiz.jpg" /></p>
 #+html: <p align="center"><img src="images/joy.jpg" /></p>
@@ -19,6 +21,8 @@
 #+html: <p align="center"><img src="images/nord.jpg" /></p>
 #+html: <p align="center"><img src="images/one_dark.jpg" /></p>
 #+html: <p align="center"><img src="images/solarized_dark.jpg" /></p>
+#+html: <p align="center"><img src="images/sandman.jpg" /></p>
+#+html: <p align="center"><img src="images/witcher.jpg" /></p>
 
 * Introduction
 Wallpapers and portraits are mainly used for 4K resolution monitors and linux windows managers handling. For example my ~raven2cz/awesome-config~ is using it.
