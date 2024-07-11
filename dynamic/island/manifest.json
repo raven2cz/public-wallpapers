@@ -1,0 +1,30 @@
+{
+    "Type": "solar",
+    "Meta": [
+        {
+            "SolarAzimuth": 0,
+            "SolarElevation": -90,
+            "CrossFade": true,
+            "Time": "20:00",
+            "FileName": "island-1-night.webp"
+        }, {
+            "SolarAzimuth": 90,
+            "SolarElevation": 0,
+            "CrossFade": true,
+            "Time": "06:00",
+            "FileName": "island-2-morning.webp"
+        }, {
+            "SolarAzimuth": 180,
+            "SolarElevation": 90,
+            "CrossFade": true,
+            "Time": "11:00",
+            "FileName": "island-3-day.webp"
+        }, {
+            "SolarAzimuth": 180,
+            "SolarElevation": 90,
+            "CrossFade": true,
+            "Time": "16:00",
+            "FileName": "island-4-afternoon.webp"
+        }
+    ]
+}
